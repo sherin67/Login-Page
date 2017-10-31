@@ -1,0 +1,16 @@
+{
+   "Login_Details":[
+      {
+         "UserId":"prv-dharmag1",
+         "Password":"5f4dcc3b5aa765d61d8327deb882cf99",
+         "Role":"Field Admin",
+         "UserName":"Guru Prasath D"
+      },
+      {
+         "UserId":"prv-v0000a2",
+         "Password":"d9ac0dc422bf74936143ccdb4c7bbb6d",
+         "Role":"Field User",
+         "UserName":"Anitha V"
+      }
+   ]
+}
